@@ -21,11 +21,9 @@
 
 ###
 
-<h4 align="left">🔭 I'm currently working on:</h4>
+<h4 align="left">🔭 Software Engineer</h4>
 
 ###
-
-<p align="left">Fintech Industry</p>
 
 ###
 
