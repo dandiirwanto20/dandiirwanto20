@@ -109,6 +109,12 @@
 
 ###
 
+<h4 align="center">🌱 Google Skill Boost 🌱 </h4>
+<a scr="https://www.skills.google/public_profiles/b85de0d2-4e6b-4b10-b8a5-f18b384d2a97"> Badges </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+
+###
+
 <div align="center">
   <img height="150" src="https://steamuserimages-a.akamaihd.net/ugc/2317732077318090085/CA0B8A93B406B54C97A9F43827DE1B3F5390130D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
